@@ -10,6 +10,6 @@ Once you have cloned the ArcGIS environment, make sure to run the code within th
 
 After following the steps above, you should be able to successfully transform data from a CSV into a geodatabase.
 
-To practice, I will attach a dummy dataset with 100 rows, focusing on transforming the data in the "UNIQUE_ID" column.
+To practice, I will attach a dummy dataset (TESTING_DATA.csv) with 100 rows, focusing on transforming the data in the "UNIQUE_ID" column.
 
 Good luck with your endeavor!

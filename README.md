@@ -1,6 +1,6 @@
 # PythonTransformation
 
-The Python code below demonstrates how to transform data from a large CSV format into spatial data, specifically a geodatabase (ESRI), by specifying appropriate data types for the values to prevent data changes that alter the values.
+The Python code above demonstrates how to transform data from a large CSV format into spatial data, specifically a geodatabase (ESRI), by specifying appropriate data types for the values to prevent data changes that alter the values.
 
 The first step is to clone the Python environment from ArcGIS. To perform data transformation directly into a geodatabase in ArcGIS, we need to clone the environment first because we require a module called arcpy to perform various functions, such as creating tables in the ArcGIS geodatabase or inserting data into ArcGIS. You can explore further on how to clone the environment independently. (Note: Cloning the environment is necessary because the original ArcGIS environment cannot be used for manipulation.)
 
